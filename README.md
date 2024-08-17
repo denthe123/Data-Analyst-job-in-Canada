@@ -26,4 +26,4 @@ The analysis aims to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-analyst-jobs-canada.git
+   git clone https://github.com/denthe123/Data-Analyst-job-in-Canada.git
