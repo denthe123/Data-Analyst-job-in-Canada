@@ -19,8 +19,8 @@ The analysis aims to:
 ## Files Included
 
 - `Cleaned_Dataset.csv`: The cleaned and processed dataset used for analysis.
-- `data_analysis.ipynb`: Jupyter notebook containing the code and results of the data analysis.
-- `visualizations.py`: Python script for generating visualizations.
+- `analyst.ipynb`: Jupyter notebook containing the code and results of the data analysis.
+- `Python Script.py`: Python script for generating visualizations.
 
 ## Getting Started
 
